@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-confab",
+  "version": "4.1.1",
+  "description": "eslint rules for confab projects",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/confabbox/eslint-config-confab"
+  },
+  "keywords": [
+    "confab",
+    "lint",
+    "eslint"
+  ],
+  "author": "",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "@babel/eslint-parser": ">= 7",
+    "eslint": ">= 8"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "pre-commit": [],
+  "main": "./index.js",
+  "license": "Apache-2.0"
+}
